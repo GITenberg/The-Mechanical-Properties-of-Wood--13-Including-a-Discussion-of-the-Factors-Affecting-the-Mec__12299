@@ -1,0 +1,33 @@
+_repo: The-Mechanical-Properties-of-Wood--13-Including-a-Discussion-of-the-Factors-Affecting-the-Mec__12299
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Record, Samuel J. (Samuel James)
+    alias: Record, Samuel James
+    birthdate: 1881
+    deathdate: 1945
+    gutenberg_agent_id: '4302'
+    url: http://www.gutenberg.org/2009/agents/4302
+description: ''
+gutenberg_bookshelf:
+- Technology
+- Woodwork
+- Crafts
+- Engineering
+- Manufacturing
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12299'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wood'
+- !lcsh 'Wood -- Testing'
+- !lcc 'TA'
+- GITenberg
+title: "The Mechanical Properties of Wood\r\nIncluding a Discussion of the Factors\
+  \ Affecting the Mechanical Properties, and Methods of Timber Testing"
+url: http://www.gutenberg.org/ebooks/12299
